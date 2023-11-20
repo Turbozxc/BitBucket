@@ -1,0 +1,9 @@
+site_status_code;meaning
+200;OK
+400;Bad Request
+404;Not Found
+406;Not Acceptable
+408;Request Timeout
+500;Internal Server Error
+503;Service Unavailable
+505;
